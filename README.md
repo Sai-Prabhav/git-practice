@@ -1,2 +1,2 @@
-##################### git-practice
+# git-practice
 A repository to practice git
